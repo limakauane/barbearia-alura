@@ -1,3 +1,10 @@
+body{
+    background:#cccc;
+}
 p{
     text-align: center;
 }
+em strong {
+  color:rgb(0, 255, 255)
+}
+
